@@ -1,6 +1,6 @@
-***myBioData***
-const ***saikiranKomaraneni*** = {
-    *nickName     : "saikiran",
+myBioData
+const saikiranKomaraneni = {
+    nickName     : "saikiran",
     email        : "saikiran20@navgurukul.org",
     loveToCode   : true,
     wantToBecome : "Full-stack developer",
