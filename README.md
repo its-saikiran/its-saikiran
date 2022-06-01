@@ -1,6 +1,6 @@
     <h1><i>saikiran</i></h1>
 
-    <h3>
+    <h3 align="center">
         <strong>
             <i>
                 const<h2>saikiranKomaraneni</h2> {
