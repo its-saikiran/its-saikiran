@@ -6,8 +6,8 @@
 ***Let's Connect ....***
 <h1>saikiran</h1>
 <h3>
-    const saikiranKomaraneni {<br>
-        nickName     : "saikiran",<br>
+    const saikiranKomaraneni = {<br>
+        &nbsp;nickName     : "saikiran",<br>
         email        : "saikiran20@navgurukul.org",<br>
         loveToCode   : true,<br>
         wantToBecome : "Full-stack developer",<br>
