@@ -24,7 +24,8 @@ const saikiranKomaraneni = {
 - 🔭 I’m currently mentoring students at @navgurukul.org  ...
 - 🌱 I’m currently learning Web Development from @devsnest.in  ...
 - 📫 Check my professional history here: https://www.linkedin.com/in/saikiran18/
-- ⚡ Fun fact: Learning new things every day !
+- 📫 Check my professional history here: https://leetcode.com/saikiran20/
+- ⚡  Fun fact: Learning new things every day !
 
 
 ## &#x1f4c8; GitHub Stats
