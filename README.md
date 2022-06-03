@@ -23,8 +23,10 @@ const saikiranKomaraneni = {
 
 - 🔭 I’m currently mentoring students at @navgurukul.org  ...
 - 🌱 I’m currently learning Web Development from @devsnest.in  ...
-- 📫 Check my professional history here: https://www.linkedin.com/in/saikiran18/
-- 📫 Check my professional history here: https://leetcode.com/saikiran20/
+- 📫 Check my professional history here:
+                  - https://www.linkedin.com/in/saikiran18/
+                  - https://leetcode.com/saikiran20/
+                  - https://www.linkedin.com/in/iamsaikiran/
 - ⚡  Fun fact: Learning new things every day !
 
 
