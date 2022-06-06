@@ -4,7 +4,7 @@
 ```
 const saikiranKomaraneni = {
   nickname     : "saikiran",
-  email        : "saikiran20@navgurukul.org",
+  email        : [ "saikiran20@navgurukul.org", "iamsaikiran25@gmail.com" ]
   loveToCode   : true,
   wantToBecome : "full-stack developer",
   covered      : [
