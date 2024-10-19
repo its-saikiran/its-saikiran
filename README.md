@@ -3,8 +3,9 @@
 
 ```
 const saikiranKomaraneni = {
+  name         : "Sai Kiran Komaraneni",
   nickname     : "saikiran",
-  email        : [ "saikiran20@navgurukul.org", "iamsaikiran25@gmail.com" ]
+  emails        : [ "saikiran20@navgurukul.org", "iamsaikiran25@gmail.com" ]
   loveToCode   : true,
   wantToBecome : "full-stack developer",
   covered      : [
