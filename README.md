@@ -5,9 +5,9 @@
 const saikiranKomaraneni = {
   name: "Sai Kiran Komaraneni",
   nickname: "saikiran",
-  emails: ["saikiran20@navgurukul.org", "iamsaikiran25@gmail.com"],
+  emails: ["iamsaikiran25@gmail.com", "saikiran20@navgurukul.org"],
   loveToCode: true,
-  currentRole: "Full Stack Software Engineer",
+  currentRole: "Software Engineer L II",
   wantToBecome: "Expert Full-Stack Developer & System Architect",
   location: {
     city: "Khammam",
