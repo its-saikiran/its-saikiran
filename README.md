@@ -73,6 +73,10 @@ const saikiranKomaraneni = {
     github: "https://github.com/its-saikiran",
     linkedin: "https://www.linkedin.com/in/iamsaikiran/"
   }
+  social2: {
+    github: "[its-saikiran](https://github.com/its-saikiran)",
+    linkedin: "[iamsaikiran](https://www.linkedin.com/in/iamsaikiran/)"
+  }
 }
 ```
 
