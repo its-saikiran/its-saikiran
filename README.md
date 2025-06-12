@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 
-```
+```js
 const saikiranKomaraneni = {
   name: "Sai Kiran Komaraneni",
   nickname: "saikiran",
