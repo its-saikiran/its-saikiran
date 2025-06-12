@@ -69,17 +69,6 @@ const saikiranKomaraneni = {
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
     tools: ["Git", "GitHub", "Docker", "AWS EC2", "Firebase", "Postman"]
   },
-  projects: [
-    {
-      name: "Spend Wise",
-      techStack: ["MongoDB", "Express", "React", "Node", "TypeScript"],
-      description: "A full-stack application to manage personal expenses efficiently. In development since May 2025."
-    }
-  ],
-  awards: [
-    { year: 2024, name: "Prodigy" },
-    { year: 2022, name: "NA" }
-  ],
   social: {
     github: "https://github.com/its-saikiran",
     linkedin: "https://www.linkedin.com/in/iamsaikiran/"
